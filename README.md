@@ -25,7 +25,7 @@ This project is a Streamlit-based web application that allows users to upload mu
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/chat-with-pdfs.git
+   git clone https://github.com/itay2341/Streamlit-Chat.git
    cd chat-with-pdfs
 
     ```
